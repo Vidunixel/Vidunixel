@@ -6,7 +6,7 @@
 
 ###
 
-<img align="right" height="200" src="./images/hand-wave.gif"  />
+<img align="right" height="200" width="200" src="./images/hand-wave.gif"  />
 
 ###
 
