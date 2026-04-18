@@ -6,7 +6,7 @@
 
 ###
 
-<img align="right" height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWo3OWJqc2s1Y2dvbGlrMncwNXNwYWV4dHBjYTVtNDJ3Mm84bWNxYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sL6YbKquotp6ieuPpf/giphy.gif"  />
+<img align="right" height="200" src="./images/hand-wave.gif"  />
 
 ###
 
