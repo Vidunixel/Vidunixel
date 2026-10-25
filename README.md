@@ -67,12 +67,6 @@
   <a href="mailto:vidunhr@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=EA4335&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="https://discord.com/users/331642664246050816" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=5865F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="./Resume.pdf" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Resume&logo=googledocs&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="resume badge" />
-  </a>
 </div>
 
 <br clear="both">
@@ -83,7 +77,7 @@
 
 * **[StudentShop](https://github.com/Vidunixel/StudentShop)** - Designed a note-sharing platform enabling high school students to upload and sell their own PDF notes, or browse and purchase notes from peers. Engineered a Node.js and Express backend, integrating MongoDB and Elasticsearch for fast, user curated search results.
 * **[StaySafe](https://github.com/Vidunixel/StaySafe)** - Collaborated in a team of 5 to develop an interactive web app within 2 days that visualises predicted crime risks across Victoria. Led backend integration by engineering a Supabase database to process and serve ML crime predictions, infrastructure data, and user-submitted incident reports.
-<!-- * **[Dwllr.ai](https://github.com/AlfandaviAU/macathon-fe)** - Led the front-end development and UI design in a team of four, building a tenant app and landlord portal using Vite and React. Connected the front end to a FastAPI backend to handle real-time user profiles and property listings. -->
+* **[Dwllr.ai](https://github.com/AlfandaviAU/macathon-fe)** - Led the front-end development and UI design in a team of four, building a tenant app and landlord portal using Vite and React. Connected the front end to a FastAPI backend to handle real-time user profiles and property listings.
 
 ###
 
