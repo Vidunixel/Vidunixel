@@ -76,6 +76,7 @@
 ###
 
 * **[StudentShop](https://github.com/Vidunixel/StudentShop)** - Designed a note-sharing platform enabling high school students to upload and sell their own PDF notes, or browse and purchase notes from peers. Engineered a Node.js and Express backend, integrating MongoDB and Elasticsearch for fast, user curated search results.
+* **[Sprout](https://github.com/Vidunixel/Sprout)** - Built a plant care app for iOS using SwiftUI that adjusts care schedules based on local weather forecasts. Integrated Supabase and PlantNet for plant identification, and developed a custom pipeline that uses OpenAI to generate OpenSCAD code and render 3D plant models.
 * **[StaySafe](https://github.com/Vidunixel/StaySafe)** - Collaborated in a team of 5 to develop an interactive web app within 2 days that visualises predicted crime risks across Victoria. Led backend integration by engineering a Supabase database to process and serve ML crime predictions, infrastructure data, and user-submitted incident reports.
 * **[Dwllr.ai](https://github.com/AlfandaviAU/macathon-fe)** - Led the front-end development and UI design in a team of four, building a tenant app and landlord portal using Vite and React. Connected the front end to a FastAPI backend to handle real-time user profiles and property listings.
 
