@@ -1,4 +1,4 @@
-<h2 align="center">Hi there, I'm Vidun Herath 👋</h2>
+<h2 align="center">Hi there, I'm Vidun Herath</h2>
 
 ###
 
@@ -71,7 +71,7 @@
 
 <br clear="both">
 
-<h2 align="left">🎯 Featured Projects</h2>
+<h2 align="left">Featured Projects</h2>
 
 ###
 
